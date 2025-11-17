@@ -1,6 +1,6 @@
 # RDP Suspicious Logon Attempt
 
-**Project Title:** Generalized ****RDP Suspicious Logon Attempt Playbook
+**Project Title:** Generalized RDP Suspicious Logon Attempt Playbook
 
 **Alert Type:** Detection of a potentially unauthorized or abnormal attempt to access a system via Remote Desktop Protocol (RDP)
 
