@@ -51,8 +51,6 @@ These playbooks are written for:
 
 > Note: Folder names may evolve over time as the content grows. The descriptions below explain the intent of each area.
 
-### `playbooks/`
-
 Core SOC alert playbooks, typically one file per alert type.
 
 - Focused on **triage**, **investigation**, **escalation criteria**, **containment**, and **recovery / lessons learned**.
