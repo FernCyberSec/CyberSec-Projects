@@ -92,7 +92,7 @@ Unauthorized RDP access can lead to full system compromise, data theft, ransomwa
 
 ### **Containment / Remediation**:
 
-In practice, you usually first preserve evidence ****/ isolate, then reset.
+In practice, you usually first preserve evidence / isolate, then reset.
 
 - Isolate the affected host from the network if unauthorized access is confirmed or strongly suspected.
 - Terminate active RDP sessions associated with the suspicious activity.
