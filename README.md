@@ -168,7 +168,7 @@ These certifications inform the way I approach the material in this repository:
 
 ## About Me
 
-I am a cybersecurity professional with a focus on:
+I am a cybersecurity specialist with a focus on:
 
 - **Security Operations (SOC)** and incident handling  
 - **Detection-oriented thinking** and practical playbooks  
