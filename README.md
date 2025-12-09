@@ -172,7 +172,11 @@ I am a cybersecurity specialist with a focus on:
 
 - **Security Operations (SOC)** and incident handling  
 - **Detection-oriented thinking** and practical playbooks  
-- **Governance and risk** alignment rather than pure “tools-only” focus  
+- **Governance and risk** alignment rather than pure “tools-only” focus
+
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Corona.png)](https://tryhackme.com/p/Corona) 
+
+[![Hack The Box Profile](https://img.shields.io/badge/hackthebox-black?style=for-the-badge&logo=hackthebox&logoColor=%239FEF00)](https://app.hackthebox.com/public/users/864665)
 
 This repository is one of the ways I hold myself accountable to **continuous improvement** and build toward future roles such as **SOC Manager / Lead** and **GRC analyst**.
 
