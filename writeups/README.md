@@ -100,7 +100,7 @@ Each document aims to answer at least these questions:
 - How did I approach the problem  
 - What evidence was important  
 - What was the root cause or main takeaway  
-- What would I recommend as next steps or controls  
+<!-- - What would I recommend as next steps or controls  -->
 
 Some write ups focus on technical detail, others lean more toward business impact and governance. Together they reflect the blend of SOC operations and GRC thinking I am developing.
 
