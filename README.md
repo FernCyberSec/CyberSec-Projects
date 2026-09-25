@@ -51,7 +51,7 @@ These certifications inform the way I approach the material in this repository:
 
 - CompTIA Security+  
 - CompTIA CySA+  
-- CISSP (Associate)  
+- CISSP
 
 (Additional certifications will be added here as I complete them.)
 
